@@ -1,9 +1,8 @@
 # Best-shop
 
-Project był wykonany podczas przebiegu kursu JavaScript Developer, w ramach podsumowania modułu Sass i RWD.
-Robiąc projekt mobilny strony BestShop,  wykorzystalam w praktyce bardzo dużo rzeczy, których nauczyłam się podczas tego modułu:
+The project was made during the JavaScript Developer course, as part of the summary of the Sass and RWD module. While creating the mobile project of the BestShop website, I used a lot of things that I learned during this module:
 
-konfiguracja środowiska dla Sass,
-podział projektu na mniejsze pliki,
-wydzielenie zmiennych, mixinów i placeholderów
-zastosowanie reguł @media
+environment configuration for Sass,
+splitting the project into smaller files,
+separation of variables, mixins and placeholders
+applying @media rules
